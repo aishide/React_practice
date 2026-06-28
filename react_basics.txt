@@ -1,0 +1,48 @@
+AISHI DE 
+
+
+React is a javascript library for building user interfaces (UI).
+
+React is used to build a single page applications 
+It allows to builld reusable UI components.
+
+It is a frontend JS library. 
+
+Developed by Jordan Walke.
+
+aka React.js or ReactJS.
+
+
+
+
+
+HOW IT WORKS  :
+-> reat creates a Virtual DOM memory.
+React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM.
+-> react only changes what needs to be changed.
+
+
+
+
+
+to use react in production , we need npm which is included with node.js 
+
+for that we need node.js 
+
+
+
+to check if node.js is installed   :    node -v 
+output  :  v22.15.0
+
+
+after NOde.js installation we can start creating a React application by choosing a build tool. 
+
+Here we will use build tool    :  Vite
+
+
+to install vite    :   npm install -g create-vite
+output   :   added 1 package in 649ms 
+
+
+
+
